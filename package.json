@@ -1,0 +1,10 @@
+{
+  "name": "quick-pix",
+  "version": "0.1.0",
+  "description": "collection of quick pictures to use during development",
+  "main": "index.js",
+  "repository": "https://github.com/BuchananDevOps/quick-pix.git",
+  "author": "John Buchanan <john@buchanandevops.com>",
+  "license": "WTFYWPL",
+  "private": false
+}
